@@ -1,0 +1,4 @@
+type = pinhole
+rank = 09
+horizontal views = 03
+vertical views = 03
